@@ -12,6 +12,7 @@ After that, navigate to the OAtuh2 tab and scroll to the "OAuth2 URL Generator" 
 * View Channels
 * Send Messages
 * Read Message History
+* Add Reactions
 
 Once the libraries are installed and you have invited Stripes to a test server, you will be able to start the bot with the command
 
