@@ -131,3 +131,9 @@ dmypy.json
 # Design Files
 stripes.png
 stripespfp.ai
+
+# OS Files
+.DS_Store
+
+# IDE Files
+.idea
